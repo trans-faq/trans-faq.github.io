@@ -2,9 +2,7 @@
 
 ## Is being trans a choice?
 
-Gender identity, or unconscious sex, has a biologic basis ([source](https://doi.org/10.4158/ep14351.ra)). While choosing to transition is a choice, the causes that motivate people to transition, like gender dysphoria, are not a choice.
-
-
+Gender identity, or [subconscious sex](https://www.juliaserano.com/terminology.html#subconscioussex), has a biologic basis ([source](https://doi.org/10.4158/ep14351.ra)). While choosing to transition is a choice, the causes that motivate people to transition, like gender dysphoria, are not a choice. 
 
 
 ## Is it normal to experience nipple pain on estrogen?
