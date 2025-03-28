@@ -1,1 +1,1 @@
-# trans-faq.github.io
+See [trans FAQ](/trans-faq).
