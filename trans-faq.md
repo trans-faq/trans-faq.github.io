@@ -1,12 +1,25 @@
 # Trans FAQ
 
-This is a list of frequently asked questions about gender dysphoria and trans topics.
+This is a list of frequently asked questions and answers about gender dysphoria and trans topics. This FAQ is not meant to be _the_ FAQ, but rather _a_ FAQ, one set of answers rather than the only answers. If there are typos, factual errors, or if you have suggestions, please [open an issue](https://github.com/trans-faq/trans-faq.github.io/issues) on Github or submit a pull request. 
 
 ## Other FAQs
 
 - [/r/asktransgender](https://old.reddit.com/r/asktransgender/wiki/faq)
 
 ## Frequently Asked Questions
+
+Each question is a heading and has an answer that follows.
+
+Here is a list of all the questions, (use ctrl + f to navigate):
+
+- What does it mean to be transgender?
+- What does it mean to be cisgender?
+- How many trans people are there?
+- [How do you know if you are trans?](#how-do-you-know-if-you-are-trans)
+- Is being trans a choice?
+- Is it normal to experience nipple pain on estrogen?
+- What is a woman?
+
 
 #### What does it mean to be transgender?
 
